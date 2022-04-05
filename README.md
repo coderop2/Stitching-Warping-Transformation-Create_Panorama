@@ -1,4 +1,3 @@
-# A2 Report
 # Part1: Given a set of Images , group them into k groups
 ## Proposed Solution
 1. Compute the Similarity for all possible pair of images (step1) 
